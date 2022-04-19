@@ -1,4 +1,4 @@
-# get_distance_with_gnuplot
+# get_distance_with_opencv
 北陽電機の2D-LiDARライブラリを改造してOpenCVで描画する．
 
 ## usage
